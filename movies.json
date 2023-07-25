@@ -1,11 +1,11 @@
 [
   {
-    "Nome": "Dogville",
-    "AnoDeLancamento": 2003,
+    "Nome": "Forrest Gump",
+    "AnoDeLancamento": 1994,
     "IncluidoNoPlano": false,
     "SomaDasAvaliacoes": 0.0,
     "TotalDeAvaliacoes": 0,
-    "DuracaoEmMinutos": 178
+    "DuracaoEmMinutos": 142
   },
   {
     "Nome": "Top Gun",
@@ -14,5 +14,13 @@
     "SomaDasAvaliacoes": 0.0,
     "TotalDeAvaliacoes": 0,
     "DuracaoEmMinutos": 109
+  },
+  {
+    "Nome": "Orphan",
+    "AnoDeLancamento": 2009,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 123
   }
 ]
